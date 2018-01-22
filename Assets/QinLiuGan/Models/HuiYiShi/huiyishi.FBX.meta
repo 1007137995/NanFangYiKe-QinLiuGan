@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: ab8fdc6665e8db04889d1325ae043a2c
+timeCreated: 1495615096
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ml-qlg-beiban01
+    100004: ml-qlg-boli
+    100006: ml-qlg-chaunghu
+    100008: ml-qlg-dengi
+    100010: ml-qlg-ditan
+    100012: ml-qlg-men
+    100014: ml-qlg-pingmu01
+    100016: ml-qlg-qiang
+    100018: ml-qlg-tonghua01
+    100020: ml-qlg-yizi01
+    100022: ml-qlg-yizi02
+    100024: ml-qlg-yizi03
+    100026: ml-qlg-yizi04
+    100028: ml-qlg-yizi05
+    100030: ml-qlg-yizi06
+    100032: ml-qlg-yizi07
+    100034: ml-qlg-yizi08
+    100036: ml-qlg-yizi09
+    100038: ml-qlg-zhuangshi
+    100040: ml-qlg-zhuozi
+    400000: //RootNode
+    400002: ml-qlg-beiban01
+    400004: ml-qlg-boli
+    400006: ml-qlg-chaunghu
+    400008: ml-qlg-dengi
+    400010: ml-qlg-ditan
+    400012: ml-qlg-men
+    400014: ml-qlg-pingmu01
+    400016: ml-qlg-qiang
+    400018: ml-qlg-tonghua01
+    400020: ml-qlg-yizi01
+    400022: ml-qlg-yizi02
+    400024: ml-qlg-yizi03
+    400026: ml-qlg-yizi04
+    400028: ml-qlg-yizi05
+    400030: ml-qlg-yizi06
+    400032: ml-qlg-yizi07
+    400034: ml-qlg-yizi08
+    400036: ml-qlg-yizi09
+    400038: ml-qlg-zhuangshi
+    400040: ml-qlg-zhuozi
+    2300000: ml-qlg-beiban01
+    2300002: ml-qlg-boli
+    2300004: ml-qlg-chaunghu
+    2300006: ml-qlg-dengi
+    2300008: ml-qlg-ditan
+    2300010: ml-qlg-men
+    2300012: ml-qlg-pingmu01
+    2300014: ml-qlg-qiang
+    2300016: ml-qlg-tonghua01
+    2300018: ml-qlg-yizi01
+    2300020: ml-qlg-yizi02
+    2300022: ml-qlg-yizi03
+    2300024: ml-qlg-yizi04
+    2300026: ml-qlg-yizi05
+    2300028: ml-qlg-yizi06
+    2300030: ml-qlg-yizi07
+    2300032: ml-qlg-yizi08
+    2300034: ml-qlg-yizi09
+    2300036: ml-qlg-zhuangshi
+    2300038: ml-qlg-zhuozi
+    3300000: ml-qlg-beiban01
+    3300002: ml-qlg-boli
+    3300004: ml-qlg-chaunghu
+    3300006: ml-qlg-dengi
+    3300008: ml-qlg-ditan
+    3300010: ml-qlg-men
+    3300012: ml-qlg-pingmu01
+    3300014: ml-qlg-qiang
+    3300016: ml-qlg-tonghua01
+    3300018: ml-qlg-yizi01
+    3300020: ml-qlg-yizi02
+    3300022: ml-qlg-yizi03
+    3300024: ml-qlg-yizi04
+    3300026: ml-qlg-yizi05
+    3300028: ml-qlg-yizi06
+    3300030: ml-qlg-yizi07
+    3300032: ml-qlg-yizi08
+    3300034: ml-qlg-yizi09
+    3300036: ml-qlg-zhuangshi
+    3300038: ml-qlg-zhuozi
+    4300000: ml-qlg-beiban01
+    4300002: ml-qlg-qiang
+    4300004: ml-qlg-dengi
+    4300006: ml-qlg-tonghua01
+    4300008: ml-qlg-yizi05
+    4300010: ml-qlg-yizi01
+    4300012: ml-qlg-yizi02
+    4300014: ml-qlg-yizi03
+    4300016: ml-qlg-yizi04
+    4300018: ml-qlg-yizi08
+    4300020: ml-qlg-yizi07
+    4300022: ml-qlg-yizi06
+    4300024: ml-qlg-yizi09
+    4300026: ml-qlg-men
+    4300028: ml-qlg-ditan
+    4300030: ml-qlg-zhuozi
+    4300032: ml-qlg-zhuangshi
+    4300034: ml-qlg-boli
+    4300036: ml-qlg-chaunghu
+    4300038: ml-qlg-pingmu01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

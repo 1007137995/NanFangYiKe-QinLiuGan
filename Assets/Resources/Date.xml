@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+  <charate NAME="Man01" Describe="介绍：....................." Age="29" Job="主管" Name="张三" Sex="男" />
+  <charate NAME="Man02" Describe="介绍：....................." Age="30" Job="处长" Name="李四" Sex="男" />
+  <charate NAME="Man03" Describe="介绍：....................." Age="32" Job="院长" Name="王五" Sex="男" />
+</root>

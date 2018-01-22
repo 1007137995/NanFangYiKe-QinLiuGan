@@ -1,0 +1,113 @@
+fileFormatVersion: 2
+guid: 38726fb5e1baaea43895d8d44d11111d
+timeCreated: 1506323690
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: NanFang_Kouzhao003
+    100004: NanFang_Nutoubu01
+    100006: NanFang_NvToufa01
+    100008: NanFang_YiSheng011
+    100010: NanFang_YiSheng012
+    100012: NanFang_YiSheng013
+    100014: Object001
+    100016: ren:KouZhao
+    400000: //RootNode
+    400002: NanFang_Kouzhao003
+    400004: NanFang_Nutoubu01
+    400006: NanFang_NvToufa01
+    400008: NanFang_YiSheng011
+    400010: NanFang_YiSheng012
+    400012: NanFang_YiSheng013
+    400014: Object001
+    400016: ren:KouZhao
+    2300000: NanFang_Kouzhao003
+    2300002: NanFang_Nutoubu01
+    2300004: NanFang_NvToufa01
+    2300006: NanFang_YiSheng011
+    2300008: NanFang_YiSheng012
+    2300010: NanFang_YiSheng013
+    2300012: Object001
+    2300014: ren:KouZhao
+    3300000: NanFang_Kouzhao003
+    3300002: NanFang_Nutoubu01
+    3300004: NanFang_NvToufa01
+    3300006: NanFang_YiSheng011
+    3300008: NanFang_YiSheng012
+    3300010: NanFang_YiSheng013
+    3300012: Object001
+    3300014: ren:KouZhao
+    4300000: Object001
+    4300002: NanFang_YiSheng011
+    4300004: ren:KouZhao
+    4300006: NanFang_Nutoubu01
+    4300008: NanFang_NvToufa01
+    4300010: NanFang_YiSheng012
+    4300012: NanFang_YiSheng013
+    4300014: NanFang_Kouzhao003
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

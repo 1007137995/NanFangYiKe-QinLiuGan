@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: b29aec53371605b4d87614457504488e
+timeCreated: 1495595209
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ml-gengyishi-13
+    100004: ml-gengyishi-kapian
+    100006: ml-gyshi-deng01
+    100008: ml-gyshi-diban01
+    100010: ml-gyshi-guizi01
+    100012: ml-gyshi-kongtiao01
+    100014: ml-gyshi-men01
+    100016: ml-gyshi-men02
+    100018: ml-gyshi-tianhua01
+    100020: ml-gyshi-yizi01
+    100022: ml-gyshi-yizi02
+    100024: ml-gyshi-yizi03
+    100026: ml-gyshi-zhuozi01
+    400000: //RootNode
+    400002: ml-gengyishi-13
+    400004: ml-gengyishi-kapian
+    400006: ml-gyshi-deng01
+    400008: ml-gyshi-diban01
+    400010: ml-gyshi-guizi01
+    400012: ml-gyshi-kongtiao01
+    400014: ml-gyshi-men01
+    400016: ml-gyshi-men02
+    400018: ml-gyshi-tianhua01
+    400020: ml-gyshi-yizi01
+    400022: ml-gyshi-yizi02
+    400024: ml-gyshi-yizi03
+    400026: ml-gyshi-zhuozi01
+    2300000: ml-gengyishi-13
+    2300002: ml-gengyishi-kapian
+    2300004: ml-gyshi-deng01
+    2300006: ml-gyshi-diban01
+    2300008: ml-gyshi-guizi01
+    2300010: ml-gyshi-kongtiao01
+    2300012: ml-gyshi-men01
+    2300014: ml-gyshi-men02
+    2300016: ml-gyshi-tianhua01
+    2300018: ml-gyshi-yizi01
+    2300020: ml-gyshi-yizi02
+    2300022: ml-gyshi-yizi03
+    2300024: ml-gyshi-zhuozi01
+    3300000: ml-gengyishi-13
+    3300002: ml-gengyishi-kapian
+    3300004: ml-gyshi-deng01
+    3300006: ml-gyshi-diban01
+    3300008: ml-gyshi-guizi01
+    3300010: ml-gyshi-kongtiao01
+    3300012: ml-gyshi-men01
+    3300014: ml-gyshi-men02
+    3300016: ml-gyshi-tianhua01
+    3300018: ml-gyshi-yizi01
+    3300020: ml-gyshi-yizi02
+    3300022: ml-gyshi-yizi03
+    3300024: ml-gyshi-zhuozi01
+    4300000: ml-gyshi-diban01
+    4300002: ml-gyshi-guizi01
+    4300004: ml-gyshi-men02
+    4300006: ml-gyshi-men01
+    4300008: ml-gyshi-kongtiao01
+    4300010: ml-gyshi-deng01
+    4300012: ml-gyshi-yizi03
+    4300014: ml-gyshi-yizi01
+    4300016: ml-gyshi-yizi02
+    4300018: ml-gyshi-tianhua01
+    4300020: ml-gyshi-zhuozi01
+    4300022: ml-gengyishi-kapian
+    4300024: ml-gengyishi-13
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

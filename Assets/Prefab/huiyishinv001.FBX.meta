@@ -1,0 +1,310 @@
+fileFormatVersion: 2
+guid: 91f17f14fb1d26b42873fd9e3c01b09a
+timeCreated: 1508044982
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bip001 L Clavicle002
+    100002: Bip001 L Finger052
+    100004: Bip001 L Finger053
+    100006: Bip001 L Finger054
+    100008: Bip001 L Finger055
+    100010: Bip001 L Finger056
+    100012: Bip001 L Finger057
+    100014: Bip001 L Finger058
+    100016: Bip001 L Finger059
+    100018: Bip001 L Finger060
+    100020: Bip001 L Finger061
+    100022: Bip001 L Forearm002
+    100024: Bip001 L Hand002
+    100026: Bip001 L Toe002
+    100028: Bip001 L UpperArm002
+    100030: Bip001 R Toe002
+    100032: Bip003
+    100034: //RootNode
+    100036: nvren_ tougu
+    100038: nvren_bozi
+    100040: nvren_kuagu
+    100042: nvren_kuagu2
+    100044: nvren_kuagu3
+    100046: nvren_kuagu4
+    100048: nvren_youdabi
+    100050: nvren_youdamuzhi1
+    100052: nvren_youdamuzhi2
+    100054: nvren_youdatui
+    100056: nvren_youjian
+    100058: nvren_youshizhi1
+    100060: nvren_youshizhi2
+    100062: nvren_youshouzhang
+    100064: nvren_youweizhi1
+    100066: nvren_youweizhi2
+    100068: nvren_youwumingzhi1
+    100070: nvren_youwumingzhi2
+    100072: nvren_youxiajiao
+    100074: nvren_youxiaobi
+    100076: nvren_youxiaotui
+    100078: nvren_youzhongzhi1
+    100080: nvren_youzhongzhi2
+    100082: nvren_zuodatui
+    100084: nvren_zuojiaozhang
+    100086: nvren_zuoxiaotui
+    100088: ZJZYYDX_TXNGYFDW_renwudongzuo
+    400000: Bip001 L Clavicle002
+    400002: Bip001 L Finger052
+    400004: Bip001 L Finger053
+    400006: Bip001 L Finger054
+    400008: Bip001 L Finger055
+    400010: Bip001 L Finger056
+    400012: Bip001 L Finger057
+    400014: Bip001 L Finger058
+    400016: Bip001 L Finger059
+    400018: Bip001 L Finger060
+    400020: Bip001 L Finger061
+    400022: Bip001 L Forearm002
+    400024: Bip001 L Hand002
+    400026: Bip001 L Toe002
+    400028: Bip001 L UpperArm002
+    400030: Bip001 R Toe002
+    400032: Bip003
+    400034: //RootNode
+    400036: nvren_ tougu
+    400038: nvren_bozi
+    400040: nvren_kuagu
+    400042: nvren_kuagu2
+    400044: nvren_kuagu3
+    400046: nvren_kuagu4
+    400048: nvren_youdabi
+    400050: nvren_youdamuzhi1
+    400052: nvren_youdamuzhi2
+    400054: nvren_youdatui
+    400056: nvren_youjian
+    400058: nvren_youshizhi1
+    400060: nvren_youshizhi2
+    400062: nvren_youshouzhang
+    400064: nvren_youweizhi1
+    400066: nvren_youweizhi2
+    400068: nvren_youwumingzhi1
+    400070: nvren_youwumingzhi2
+    400072: nvren_youxiajiao
+    400074: nvren_youxiaobi
+    400076: nvren_youxiaotui
+    400078: nvren_youzhongzhi1
+    400080: nvren_youzhongzhi2
+    400082: nvren_zuodatui
+    400084: nvren_zuojiaozhang
+    400086: nvren_zuoxiaotui
+    400088: ZJZYYDX_TXNGYFDW_renwudongzuo
+    4300000: ZJZYYDX_TXNGYFDW_renwudongzuo
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: ZJZYYDX_TXNGYFDW_renwudongzuo
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 260
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip003
+        weight: 1
+      - path: Bip003/nvren_kuagu
+        weight: 1
+      - path: Bip003/nvren_kuagu/nvren_kuagu2
+        weight: 1
+      - path: Bip003/nvren_kuagu/nvren_kuagu2/nvren_kuagu3
+        weight: 1
+      - path: Bip003/nvren_kuagu/nvren_kuagu2/nvren_kuagu3/nvren_kuagu4
+        weight: 1
+      - path: Bip003/nvren_kuagu/nvren_kuagu2/nvren_kuagu3/nvren_kuagu4/nvren_bozi
+        weight: 1
+      - path: Bip003/nvren_kuagu/nvren_kuagu2/nvren_kuagu3/nvren_kuagu4/nvren_bozi/Bip001
+          L Clavicle002
+        weight: 1
+      - path: Bip003/nvren_kuagu/nvren_kuagu2/nvren_kuagu3/nvren_kuagu4/nvren_bozi/Bip001
+          L Clavicle002/Bip001 L UpperArm002
+        weight: 1
+      - path: Bip003/nvren_kuagu/nvren_kuagu2/nvren_kuagu3/nvren_kuagu4/nvren_bozi/Bip001
+          L Clavicle002/Bip001 L UpperArm002/Bip001 L Forearm002
+        weight: 1
+      - path: Bip003/nvren_kuagu/nvren_kuagu2/nvren_kuagu3/nvren_kuagu4/nvren_bozi/Bip001
+          L Clavicle002/Bip001 L UpperArm002/Bip001 L Forearm002/Bip001 L Hand002
+        weight: 1
+      - path: Bip003/nvren_kuagu/nvren_kuagu2/nvren_kuagu3/nvren_kuagu4/nvren_bozi/Bip001
+          L Clavicle002/Bip001 L UpperArm002/Bip001 L Forearm002/Bip001 L Hand002/Bip001
+          L Finger052
+        weight: 1
+      - path: Bip003/nvren_kuagu/nvren_kuagu2/nvren_kuagu3/nvren_kuagu4/nvren_bozi/Bip001
+          L Clavicle002/Bip001 L UpperArm002/Bip001 L Forearm002/Bip001 L Hand002/Bip001
+          L Finger052/Bip001 L Finger053
+        weight: 1
+      - path: Bip003/nvren_kuagu/nvren_kuagu2/nvren_kuagu3/nvren_kuagu4/nvren_bozi/Bip001
+          L Clavicle002/Bip001 L UpperArm002/Bip001 L Forearm002/Bip001 L Hand002/Bip001
+          L Finger054
+        weight: 1
+      - path: Bip003/nvren_kuagu/nvren_kuagu2/nvren_kuagu3/nvren_kuagu4/nvren_bozi/Bip001
+          L Clavicle002/Bip001 L UpperArm002/Bip001 L Forearm002/Bip001 L Hand002/Bip001
+          L Finger054/Bip001 L Finger055
+        weight: 1
+      - path: Bip003/nvren_kuagu/nvren_kuagu2/nvren_kuagu3/nvren_kuagu4/nvren_bozi/Bip001
+          L Clavicle002/Bip001 L UpperArm002/Bip001 L Forearm002/Bip001 L Hand002/Bip001
+          L Finger056
+        weight: 1
+      - path: Bip003/nvren_kuagu/nvren_kuagu2/nvren_kuagu3/nvren_kuagu4/nvren_bozi/Bip001
+          L Clavicle002/Bip001 L UpperArm002/Bip001 L Forearm002/Bip001 L Hand002/Bip001
+          L Finger056/Bip001 L Finger057
+        weight: 1
+      - path: Bip003/nvren_kuagu/nvren_kuagu2/nvren_kuagu3/nvren_kuagu4/nvren_bozi/Bip001
+          L Clavicle002/Bip001 L UpperArm002/Bip001 L Forearm002/Bip001 L Hand002/Bip001
+          L Finger058
+        weight: 1
+      - path: Bip003/nvren_kuagu/nvren_kuagu2/nvren_kuagu3/nvren_kuagu4/nvren_bozi/Bip001
+          L Clavicle002/Bip001 L UpperArm002/Bip001 L Forearm002/Bip001 L Hand002/Bip001
+          L Finger058/Bip001 L Finger059
+        weight: 1
+      - path: Bip003/nvren_kuagu/nvren_kuagu2/nvren_kuagu3/nvren_kuagu4/nvren_bozi/Bip001
+          L Clavicle002/Bip001 L UpperArm002/Bip001 L Forearm002/Bip001 L Hand002/Bip001
+          L Finger060
+        weight: 1
+      - path: Bip003/nvren_kuagu/nvren_kuagu2/nvren_kuagu3/nvren_kuagu4/nvren_bozi/Bip001
+          L Clavicle002/Bip001 L UpperArm002/Bip001 L Forearm002/Bip001 L Hand002/Bip001
+          L Finger060/Bip001 L Finger061
+        weight: 1
+      - path: Bip003/nvren_kuagu/nvren_kuagu2/nvren_kuagu3/nvren_kuagu4/nvren_bozi/nvren_
+          tougu
+        weight: 1
+      - path: Bip003/nvren_kuagu/nvren_kuagu2/nvren_kuagu3/nvren_kuagu4/nvren_bozi/nvren_youjian
+        weight: 1
+      - path: Bip003/nvren_kuagu/nvren_kuagu2/nvren_kuagu3/nvren_kuagu4/nvren_bozi/nvren_youjian/nvren_youdabi
+        weight: 1
+      - path: Bip003/nvren_kuagu/nvren_kuagu2/nvren_kuagu3/nvren_kuagu4/nvren_bozi/nvren_youjian/nvren_youdabi/nvren_youxiaobi
+        weight: 1
+      - path: Bip003/nvren_kuagu/nvren_kuagu2/nvren_kuagu3/nvren_kuagu4/nvren_bozi/nvren_youjian/nvren_youdabi/nvren_youxiaobi/nvren_youshouzhang
+        weight: 1
+      - path: Bip003/nvren_kuagu/nvren_kuagu2/nvren_kuagu3/nvren_kuagu4/nvren_bozi/nvren_youjian/nvren_youdabi/nvren_youxiaobi/nvren_youshouzhang/nvren_youdamuzhi1
+        weight: 1
+      - path: Bip003/nvren_kuagu/nvren_kuagu2/nvren_kuagu3/nvren_kuagu4/nvren_bozi/nvren_youjian/nvren_youdabi/nvren_youxiaobi/nvren_youshouzhang/nvren_youdamuzhi1/nvren_youdamuzhi2
+        weight: 1
+      - path: Bip003/nvren_kuagu/nvren_kuagu2/nvren_kuagu3/nvren_kuagu4/nvren_bozi/nvren_youjian/nvren_youdabi/nvren_youxiaobi/nvren_youshouzhang/nvren_youshizhi1
+        weight: 1
+      - path: Bip003/nvren_kuagu/nvren_kuagu2/nvren_kuagu3/nvren_kuagu4/nvren_bozi/nvren_youjian/nvren_youdabi/nvren_youxiaobi/nvren_youshouzhang/nvren_youshizhi1/nvren_youshizhi2
+        weight: 1
+      - path: Bip003/nvren_kuagu/nvren_kuagu2/nvren_kuagu3/nvren_kuagu4/nvren_bozi/nvren_youjian/nvren_youdabi/nvren_youxiaobi/nvren_youshouzhang/nvren_youweizhi1
+        weight: 1
+      - path: Bip003/nvren_kuagu/nvren_kuagu2/nvren_kuagu3/nvren_kuagu4/nvren_bozi/nvren_youjian/nvren_youdabi/nvren_youxiaobi/nvren_youshouzhang/nvren_youweizhi1/nvren_youweizhi2
+        weight: 1
+      - path: Bip003/nvren_kuagu/nvren_kuagu2/nvren_kuagu3/nvren_kuagu4/nvren_bozi/nvren_youjian/nvren_youdabi/nvren_youxiaobi/nvren_youshouzhang/nvren_youwumingzhi1
+        weight: 1
+      - path: Bip003/nvren_kuagu/nvren_kuagu2/nvren_kuagu3/nvren_kuagu4/nvren_bozi/nvren_youjian/nvren_youdabi/nvren_youxiaobi/nvren_youshouzhang/nvren_youwumingzhi1/nvren_youwumingzhi2
+        weight: 1
+      - path: Bip003/nvren_kuagu/nvren_kuagu2/nvren_kuagu3/nvren_kuagu4/nvren_bozi/nvren_youjian/nvren_youdabi/nvren_youxiaobi/nvren_youshouzhang/nvren_youzhongzhi1
+        weight: 1
+      - path: Bip003/nvren_kuagu/nvren_kuagu2/nvren_kuagu3/nvren_kuagu4/nvren_bozi/nvren_youjian/nvren_youdabi/nvren_youxiaobi/nvren_youshouzhang/nvren_youzhongzhi1/nvren_youzhongzhi2
+        weight: 1
+      - path: Bip003/nvren_kuagu/nvren_kuagu2/nvren_youdatui
+        weight: 1
+      - path: Bip003/nvren_kuagu/nvren_kuagu2/nvren_youdatui/nvren_youxiaotui
+        weight: 1
+      - path: Bip003/nvren_kuagu/nvren_kuagu2/nvren_youdatui/nvren_youxiaotui/nvren_youxiajiao
+        weight: 1
+      - path: Bip003/nvren_kuagu/nvren_kuagu2/nvren_youdatui/nvren_youxiaotui/nvren_youxiajiao/Bip001
+          R Toe002
+        weight: 1
+      - path: Bip003/nvren_kuagu/nvren_kuagu2/nvren_zuodatui
+        weight: 1
+      - path: Bip003/nvren_kuagu/nvren_kuagu2/nvren_zuodatui/nvren_zuoxiaotui
+        weight: 1
+      - path: Bip003/nvren_kuagu/nvren_kuagu2/nvren_zuodatui/nvren_zuoxiaotui/nvren_zuojiaozhang
+        weight: 1
+      - path: Bip003/nvren_kuagu/nvren_kuagu2/nvren_zuodatui/nvren_zuoxiaotui/nvren_zuojiaozhang/Bip001
+          L Toe002
+        weight: 1
+      - path: Bip003/ZJZYYDX_TXNGYFDW_renwudongzuo
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
